@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)]
+![image](https://github.com/user-attachments/assets/14c02281-c10d-4cb3-864e-d20862feac1b)
 <h1 align="center">Hi 👋, I'm Leann</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
